@@ -1,0 +1,8 @@
+SQLhon
+JavaScript
+Java
+React
+C#
+SQL
+C
+C++
